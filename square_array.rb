@@ -1,4 +1,4 @@
 def square_array(array)
 array = [1, 2, 3]
-array.each |x| puts 
+array.each |x| puts x*x
 end
