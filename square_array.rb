@@ -4,5 +4,5 @@ end
 
 def square_array(array)
   array = [1,2,3]
-  array.each {|array| puts }
+  array.each {|array| puts x*x}
 end
